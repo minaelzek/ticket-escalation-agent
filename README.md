@@ -16,7 +16,7 @@ Offline customer-support agent. It reads the local markdown help center in [`cor
 | Package | `ticket_agent` |
 | API | `answer_ticket(ticket) -> AgentResult` |
 | CLI | `python -m ticket_agent` reads one JSON ticket from stdin |
-| Threshold | `CONFIDENCE_THRESHOLD = 0.18` in [`ticket_agent/agent.py`](ticket_agent/agent.py) |
+| Threshold | The named constant CONFIDENCE_THRESHOLD is 0.18 in [`ticket_agent/agent.py`](ticket_agent/agent.py) |
 | Python | 3.11+ |
 | Dependencies | standard library only |
 
