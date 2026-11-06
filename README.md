@@ -7,7 +7,7 @@ Offline customer-support agent. It reads the local markdown help center in [`cor
 > [!NOTE]
 > The help center is a small fictional corpus checked into this repository. The agent does not invent policy that is not in those files.
 
-**Maintainer:** [Mina Elzek](https://github.com/minaelzek) · **Built:** November 2026
+**Maintainer:** [Mina Elzek](https://github.com/minaelzek) · **Built:** November 2025
 
 ## About
 
